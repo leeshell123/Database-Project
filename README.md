@@ -7,6 +7,6 @@ Information like actors, directors, reviews are stored in MongoDB.
 
 These 2 databases are connected through IMDB No.
 
-Users can rate a film, add review to a film, get the top 10 score films.
+Users can rate a film, add review to a film, get the top 10 score films, search film through name, actor name, director name.
 
 It's written in C#, using the ASP.NET WebApplication template in Visual Studio 2013.
